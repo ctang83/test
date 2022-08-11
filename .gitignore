@@ -6,6 +6,5 @@ _bookdown_files
 *.rds
 .Rapp.history
 
-_book/
 .Rdata
 .httr-oauth
