@@ -1,4 +1,4 @@
-# Jobs
+<!-- # Jobs
 
 [Consultant - Economic Evaluation and Analysis, Anywhere, WHO](https://unjobs.org/vacancies/1655745977591)
 1. Do you have familiarity with the UHC Compendium and the OneHealth Tool?
@@ -330,3 +330,4 @@ Magnus Lindelow is the Practice Manager for Health, Nutrition and Population for
 Michele Gragnolati currently serves as the Manager for Strategy, Operations and Global Engagement in the Health, Nutrition and Population Global Practice. He joined the World Bank as a Young Professional in 1998 and since 2000, he served first as an economist with the health sector in Latin America and South Asia, and later as program leader for Human Development for the Western Balkans, Brazil, and Argentina, Paraguay and Uruguay. His last position was as Global Lead for Population and Development and he worked mostly on issues related to high fertility and rapid population growth in Sub-Saharan Africa. Before coming back to HQ in **Washington, DC**, Michele was based in Sarajevo, Brasilia and Buenos Aires. Michele has published on different topics, including methodological and statistical demography, poverty during the East Asia financial crisis, malnutrition in Central America and India, the impact of health expenditures on poverty in former Yugoslavia, the economics of demographic change in Africa and the socioeconomic implications of population aging in Argentina, Brazil and Uruguay.
 
 Economist graduated from Luigi Bocconi Commercial University (Italy), Gragnolati has also a Master’s Degree in Population and Development from the London School of Economics (Great Britain) and a Ph.D. in Demography from the University of Princeton (USA).
+-->

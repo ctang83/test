@@ -1,7 +1,7 @@
 --- 
 title: "Jobs"
 author: "Chengxiang Tang"
-date: "2022-12-03"
+date: "2022-12-04"
 site: bookdown::bookdown_site
 # output: bookdown::gitbook
 documentclass: book
@@ -15,6 +15,7 @@ description: "Jobs"
 # NUGSPP- A/Prof
 
 [Job ad – Qualifications](https://jobs.smartrecruiters.com/nazarbayevuniversity1/743999843186351-open-rank-faculty-positions-at-the-graduate-school-of-public-policy)
+
 1. Relevant academic teaching and research experience 
     - at least 2 years at associate professor level 在中国的公共管理学院任职6年
 1. International research profile 
@@ -23,17 +24,10 @@ description: "Jobs"
     - awards and prizes from relevant professional/academic associations 
     - candidates with an established record of research and teaching in the **Health and Social Policy**
 
-### Health and Social Policy
+**申请NU的原因**
 
-1. Understand how policy and social factors shape health outcomes. Combining a strong foundation in policy with social justice principles, students learn to analyse local and global health systems, the layered social, cultural and environmental determinants of health, and craft policies to achieve socially just health outcomes.
-    - Graduate career destinations in government and non-government organisations (NGOs) are common. 
-    - Roles include policy and research officers in international health organisations, Indigenous community health organisations, local area health networks as well as state and federal government.
-1. [Health and Social Policy](https://www.health.nsw.gov.au/about/ministry/Pages/hsp.aspx) works to improve the health and wellbeing of people - now, across their life and for future generations. They develop equity focused policies and programs for the NSW Health system, including where it connects with social care. For example, in NSW covers 
-    - Aged care, Disability, Kids and families, LGBTIQ+ health, Palliative care, Transport for health, Women's health
-
-
-## 申请NU的原因
 我之前的研究focuses on health system in China，我对developing countries，尤其是受USSR影响国家的health system reform非常感兴趣
+
 As one of post-USSR countries, its education system needs transformation, in particularly for the Medical Education system. 
 highly interested in the current democratic transition in Kazakhstan 
 
