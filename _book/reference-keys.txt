@@ -1,7 +1,6 @@
-a
+hku
 nugspp--aprof
-my-story---star-situation-task-actions-results
-interview-questions
+my-storyinterview-questions---star-situation-task-actions-results
 job-talk-example
 background-info
 network
