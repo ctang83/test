@@ -1,7 +1,7 @@
 --- 
 title: "Jobs"
 author: "Chengxiang Tang"
-date: "2023-01-07"
+date: "2023-01-09"
 site: bookdown::bookdown_site
 # output: bookdown::gitbook
 documentclass: book
@@ -78,32 +78,32 @@ Thank you.
 # HKU speech
 
 Dear Prof Lin, I am honored to do this job talk, titled “Complex Health System in Transition”, 
-in applying for the position of assistant professor of health economics, policy and management at The University of Hong Kong.
+in applying for an assistant professor of health economics, policy and management at The University of Hong Kong.
 
 
 
 So first of all, why do I apply for this academic job at The University of Hong Kong?
 
 
-I will first put a big picture as this, because it’s quite related to my recent experience and the main object of my research – the health systems in China
+I will first put a big picture here, because it’s quite related to my recent experience and the main object of my research – the health systems in China.
 
 When we looking at the outside, 
     - The Russia-Ukraine War has changed the whole geopolitics of Eurasia, including China mainland, and Hong Kong
 
 When we looking at the inside, 
-    - China is finally released from its pandemic regulations, there is one more point I don’t want to put on the slides is “China’s political changes”
+    - China finally lifted COVID restrictions, and there is one more point I don’t want to put on the slides is “China’s political changes”
 
 HK has always been a bridge between the East and the West, I’m not sure whether the world is going to be more divided, 
-    - however, The University of HK is such a best international platform, that can provide me on the frontline for observing this historical change. 
+    - however, The University of HK is such a best international platform, that can provide me to observe this historical change on the frontline. 
 
 
 Then Let’s just go back to the title “complex health system in transition” 
 -	The reason I use “Interdisciplinary” is that I want to describe my works in one word, and the object of my research , China’s health system
 
 Second, as a practical health policy researcher, I am always looking for ways to utilise my knowledge and skills to the real-world situations. Here is my story of No-lockdown. 
--	For the past three years, my family and I have not been touched by any lockdown regulations. We took a trip to Australia in January 2020 and avoided the pandemic breakout in Wuhan, which resulted in a statewide lockdown in China. 
--	We delayed our return trip to China until March, and after we arrived in Guangzhou from Sydney, the COVID-19 outbreak had begun in Australia, resulting in two lockdowns afterwards. 
--	We were lucky as Guangzhou had no lockdowns from then until 2021. During that time, I applied for and was granted the Global Talent Visa to Australia.  
+-	For the past three years, my family and I have not been touched by any lockdown regulations. As we took a trip to Australia in January 2020 and avoided the pandemic breakout in Wuhan, which resulted in a statewide lockdown in China. 
+-	We delayed our return trip to China until March, and after we back to Guangzhou, the COVID-19 outbreak had begun in Australia, resulting in two lockdowns afterwards. 
+-	We were lucky as Guangzhou had no lockdowns from then until 2021. During that time, I applied for and was granted the Australian Global Talent Visa.  
 -	In November 2021, Australia fully lifted restrictions, my family left China and immigrated to Sydney, where we have remained until now. So my family has not been locked for even one day. The three years of experience have seen a combination of good fortune and my careful judgement based on medical and geopolitical factors.
 
 Beyond the practical application of knowledge, let’s go along with my research to demonstrate the interdisciplinary nature of complex health system
@@ -123,7 +123,7 @@ I hope to highlight this paper titled “The multi-tiered medical education syst
 -	This is a paper co-authored with the famous health economist Chee-Ruey Hsieh
 -	This paper first documented China’s multi-tiered medical education system originated from the USSR, and demonstrated its trade-off between quantity and quality in training health care professionals. Many researchers told me that this paper solved their long-term puzzle about China’s health system because we linked both the healthcare market and the medical education market. 
 
-More recently, I have a paper titled “Physician Human Capital, Access to and Mismatch of Health Care” accepted by <China Economic Quarterly>, that is a top-two Economics journal in China 
+More recently, I have a paper titled “Physician Human Capital, Access to and Mismatch of Health Care” just accepted for publication by <China Economic Quarterly>, which is a top-two Economics journal in China 
 
 
 
@@ -246,15 +246,6 @@ Here are two working papers that I have almost prepared and ready to submit
 And “Does pandemic challenge attract more talents into healthcare? The “Fauci effect” in Medical Education” 
 
 
-Regarding the future research networks, within the University of Hong Kong, I can work with you. I think we share common research interests in the health system. Or I can work with A/Prof Karen Grepin in health economics. 
-
-In addition, I have interest in building a collaboration with BIMHSE, as a newly established research institute, I think this is a research field the University of Hong Kong hopes to invest in. 
-
-Besides, I have a long-term cooperation and connections with Prof Gordon Liu, who is the Dean of the Institute for Global Health and Development at the Peking University 
--	I have been hired as an adjunct fellow by the Professor Liu in the past four years
-
-
-
 I do have teaching experience in a couple of universities, like Southwestern Uni of Finance and Economics, Southern Medical University, as mentioned in my CV. 
 - however I will brief three courses that I am keen to teach, and I think that may fit students of the School of Public Health
 
@@ -284,6 +275,16 @@ As I have mentioned in the research, I am among the first group who have applied
 
 
 
+This is the other network. The future research networks! 
+- Within the University of Hong Kong, I can work with you. I think we share common research interests in the health system. Or I can work with A/Prof Karen Grepin in health economics. 
+
+In addition, I have interest in building a collaboration with BIMHSE, as a newly established research institute, I think this is a research field the University of Hong Kong hopes to invest in. 
+
+Besides, I have a long-term cooperation and connections with Prof Gordon Liu, who is the Dean of the Institute for Global Health and Development at the Peking University 
+-	I have been hired as an adjunct fellow by the Professor Liu in the past four years
+
+
+
 During the last six years in China, I have supervised three master students who are already graduated 
 
 I also want to highlight an unusual educational experience with my son, 
@@ -308,3 +309,7 @@ All right,
 Thank you very much for considering my application.
 I sincerely hope to be able to contribute to the university as an assistant professor of health economics, policy and management. 
 Thank you very much. Any comments are welcome. 
+
+
+
+

@@ -1,8 +1,5 @@
 # NUGSPP- A/Prof
 
-https://docs.google.com/document/d/1EQL-0aeOpM5B10K0Hn_hQw4kNHhKtCTU/edit?usp=sharing&ouid=112088268119767211598&rtpof=true&sd=true
-
-
 [Job ad – Qualifications](https://jobs.smartrecruiters.com/nazarbayevuniversity1/743999843186351-open-rank-faculty-positions-at-the-graduate-school-of-public-policy)
 
 1. Relevant academic teaching and research experience 
