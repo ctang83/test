@@ -82,7 +82,7 @@ in applying for an assistant professor of health economics, policy and managemen
 
 
 
-So first of all, why do I apply for this academic job at The University of Hong Kong?
+So first of all, why do I apply for this academic job?
 
 
 I will first put a big picture here, because it’s quite related to my recent experience and the main object of my research – the health systems in China.
@@ -98,7 +98,7 @@ HK has always been a bridge between the East and the West, I’m not sure whethe
 
 
 Then Let’s just go back to the title “complex health system in transition” 
--	The reason I use “Interdisciplinary” is that I want to describe my works in one word, and the object of my research , China’s health system
+-	The reason I use “Interdisciplinary” is that I want to describe my works in one word, and the object of my research, China’s health system
 
 Second, as a practical health policy researcher, I am always looking for ways to utilise my knowledge and skills to the real-world situations. Here is my story of No-lockdown. 
 -	For the past three years, my family and I have not been touched by any lockdown regulations. As we took a trip to Australia in January 2020 and avoided the pandemic breakout in Wuhan, which resulted in a statewide lockdown in China. 
@@ -128,7 +128,7 @@ More recently, I have a paper titled “Physician Human Capital, Access to and M
 
 
 As you know, to some extent, China is like Australia, with big and concentrated urban areas, and lots of remote and rural areas
--	So the health workforce planning and distribution might be the biggest challenge to such a huge health system
+-	To guarantee the access to healthcare, the health workforce capability and distribution might be the biggest challenge to such a huge health system
 -	That’s the reason I engage in this field 
 
 
@@ -142,7 +142,7 @@ Recently, the application of network science has been increasing rapidly
 - the paper has been published by an interdisciplinary journal <Future Generation Computer Systems>
 
 
-In this paper, my research question is What are inpatients’ transfer-networks look like? 
+In this paper, my research question is What do inpatients’ transfer-networks look like? 
 - how can we measure the network features using topology? 
 
 To answer that, we extracted two-years data from New Cooperation Medical Scheme (NCMS) in Fujian province
@@ -269,7 +269,7 @@ In this course, I will focus on the relationships between economic growth and th
 The last course I would like to introduce is Network Science
 - A more familiar title for many audiences is “Social Network Analysis”, while it is just a small part of network science
 
-As I have mentioned in the research, I am among the first group who have applied this technique in health service research  
+As I have mentioned in the research part, I am among the first group who have applied this technique in health service research  
 - I believe this course can not only provide us with a skill in analysing the complex health system
 - but also gives us a system thinking approach and global perspective in interdisciplinary research 
 
@@ -309,6 +309,10 @@ All right,
 Thank you very much for considering my application.
 I sincerely hope to be able to contribute to the university as an assistant professor of health economics, policy and management. 
 Thank you very much. Any comments are welcome. 
+
+
+
+
 
 
 
