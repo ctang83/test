@@ -85,7 +85,7 @@ in applying for an assistant professor of health economics, policy and managemen
 So first of all, why do I apply for this academic job?
 
 
-I will first put a big picture here, because it’s quite related to my recent experience and the main object of my research – the health systems in China.
+I will first put it in a big picture here, because it’s quite related to my recent experience and the main object of my research – the health systems in China.
 
 When we looking at the outside, 
     - The Russia-Ukraine War has changed the whole geopolitics of Eurasia, including China mainland, and Hong Kong
@@ -111,7 +111,7 @@ Beyond the practical application of knowledge, let’s go along with my research
 
 
 In order to study the health system, I have conducted a series of interdisciplinary research 
-    along streams such as workforce, , network science, and primary care, public health, population urbanisation, infrastructure development
+    along streams such as workforce, network science, and primary care, public health, population urbanisation, infrastructure development
 
 
 Here is the first stream: the health workforce and medical education
@@ -309,6 +309,10 @@ All right,
 Thank you very much for considering my application.
 I sincerely hope to be able to contribute to the university as an assistant professor of health economics, policy and management. 
 Thank you very much. Any comments are welcome. 
+
+
+
+
 
 
 
