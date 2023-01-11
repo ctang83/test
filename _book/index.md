@@ -1,7 +1,7 @@
 --- 
 title: "Jobs"
 author: "Chengxiang Tang"
-date: "2023-01-09"
+date: "2023-01-11"
 site: bookdown::bookdown_site
 # output: bookdown::gitbook
 documentclass: book
@@ -111,7 +111,7 @@ Beyond the practical application of knowledge, let’s go along with my research
 
 
 In order to study the health system, I have conducted a series of interdisciplinary research 
-    along streams such as workforce, population urbanisation, infrastructure development, network science, and primary care, public health
+    along streams such as workforce, , network science, and primary care, public health, population urbanisation, infrastructure development
 
 
 Here is the first stream: the health workforce and medical education
@@ -246,7 +246,7 @@ Here are two working papers that I have almost prepared and ready to submit
 And “Does pandemic challenge attract more talents into healthcare? The “Fauci effect” in Medical Education” 
 
 
-I do have teaching experience in a couple of universities, like Southwestern Uni of Finance and Economics, Southern Medical University, as mentioned in my CV. 
+I had teaching experience in a couple of universities, like Southwestern Uni of Finance and Economics, Southern Medical University, as mentioned in my CV. 
 - however I will brief three courses that I am keen to teach, and I think that may fit students of the School of Public Health
 
 My mixed research skills and frameworks are from these courses 
@@ -276,7 +276,7 @@ As I have mentioned in the research part, I am among the first group who have ap
 
 
 This is the other network. The future research networks! 
-- Within the University of Hong Kong, I can work with you. I think we share common research interests in the health system. Or I can work with A/Prof Karen Grepin in health economics. 
+- Within the University of Hong Kong, I hope to work with you. I think we share common research interests in the health system. Or I can work with A/Prof Karen Grepin in health economics. 
 
 In addition, I have interest in building a collaboration with BIMHSE, as a newly established research institute, I think this is a research field the University of Hong Kong hopes to invest in. 
 
@@ -309,10 +309,6 @@ All right,
 Thank you very much for considering my application.
 I sincerely hope to be able to contribute to the university as an assistant professor of health economics, policy and management. 
 Thank you very much. Any comments are welcome. 
-
-
-
-
 
 
 
