@@ -17,13 +17,11 @@ Many NUGSPP professors visited LKYGSPP before.
 
 ## Geography
 
-[Central Asia](https://www.worldbank.org/en/region/eap)
+1. [Central Asia](https://www.worldbank.org/en/region/eap)
+    - It includes the former Soviet republics of Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan, in which the "-stans" for the countries all have names ending with the Persian suffix "-stan", meaning "land of".
+1. [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan)
+    - Population with 19 million, 69.3% of the population is Muslim, GDP Per capita is 10k dollars
 
-1. It includes the former Soviet republics of Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan, in which the "-stans" for the countries all have names ending with the Persian suffix "-stan", meaning "land of".
-
-[Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan)
-
-1. Population with 19 million, 69.3% of the population is Muslim, GDP Per capita is 10k dollars
 
 ## Health and Social Policy
 
@@ -67,3 +65,56 @@ It has three major components: primary healthcare, health promotion and wellness
 
 Universal health care (also called universal health coverage, universal coverage, or universal care) is a health care system in which all residents of a particular country or region are assured access to health care.
 - resilience of health system: The health system need to develop capacities to cope with challenges from both certainty and uncertainty
+
+
+
+
+# GSPP speech
+
+**Speech draft**
+
+Good afternoon, everyone. I am honored to be here today to speak to you about my research in the field of public policy.
+
+As an associate professor in this field, my work focuses on examining the intersection of policy and politics. I am particularly interested in how policy decisions are made and how they impact the lives of ordinary people.
+
+Over the last several years, I have conducted research on a range of topics including campaign finance, healthcare policy, and education reform. One of my key contributions to the field has been to use quantitative methods to study the effects of policy on a wide range of outcomes, including economic growth, health outcomes, and educational achievement.
+
+In my most recent work, I have focused on the impact of campaign finance on political polarization. My findings suggest that the increasing role of money in politics has led to a more divided political landscape, with politicians becoming more entrenched in their positions and less willing to compromise.
+
+In addition to my research, I am also committed to teaching and mentoring students. I have taught a variety of courses at the undergraduate and graduate levels, including introductory courses on public policy and more specialized seminars on campaign finance and healthcare policy. I am passionate about helping students develop the skills and knowledge they need to succeed in the field of public policy.
+
+I am excited to continue this line of research and to contribute to the growing body of knowledge on the effects of public policy on society. Thank you for the opportunity to speak with you today. I would be happy to take any questions you may have.
+
+
+**speech note 1**
+
+Dear members of the hiring committee,
+
+I am honored to be considered for the position of assistant professor of health economics, policy and management at Hong Kong University. With a background in economics and public health, I have always been passionate about understanding the economic forces shaping our healthcare system and finding ways to improve access and outcomes for all individuals.
+
+My research interests lie at the intersection of health economics, policy and management, with a focus on the ways in which policy interventions can improve healthcare delivery and outcomes. I have conducted extensive research on the impact of insurance coverage on healthcare utilization and outcomes, as well as the effects of various payment reform strategies on provider behavior and patient outcomes. In my previous role as a postdoctoral researcher at XYZ University, I led several successful research projects, including a study on the effects of Medicaid expansion on utilization of preventive services and a project examining the impact of telemedicine on healthcare access in rural areas.
+
+In addition to my research experience, I have also had the opportunity to teach a variety of courses in health economics and policy at the undergraduate and graduate levels. I am dedicated to creating engaging and interactive learning experiences for my students, and have received positive feedback from both my peers and students for my ability to bring complex economic concepts to life in the classroom.
+
+Moving forward, I hope to continue pursuing research that aims to inform policy decisions and improve healthcare delivery and outcomes. I am particularly interested in studying the impacts of alternative payment models, such as value-based purchasing, on provider behavior and patient outcomes. I also plan to continue teaching and mentoring students, helping to prepare the next generation of health policy leaders.
+
+Thank you for considering my application. I believe my background and experience make me an excellent fit for this position, and I am excited about the opportunity to contribute to the vibrant community of scholars at Hong Kong University.
+
+Thank you.
+
+**speech note 2**
+
+Good morning/afternoon everyone,
+
+I am thrilled to be here today to speak with you about my interest in the position of associate professor of health policy and social policy at Nazarbayev University. As a researcher and teacher with over a decade of experience in these fields, I believe I have the skills and expertise to make a meaningful contribution to the department and the university.
+
+First, let me tell you a little about my background. I received my PhD in public policy from ABC University, where my dissertation focused on the intersection of health policy and social policy, specifically examining the ways in which social policies can impact health outcomes. I have since built upon this foundation, conducting research on a variety of topics related to health policy and social policy, including the effects of welfare reform on health outcomes, the role of community-level factors in shaping health behaviors, and the impact of policy interventions on health disparities. My research has been published in numerous leading academic journals, and I have received multiple grants and awards for my work.
+
+In addition to my research, I have also had the opportunity to teach a range of courses in health policy and social policy at the undergraduate and graduate levels. I have a strong commitment to teaching and believe in the importance of educating the next generation of policy leaders. I have received positive evaluations from my students and have been recognized with several teaching awards throughout my career.
+
+Looking to the future, I am excited to continue pursuing research that aims to inform policy decisions and address pressing social and health issues. In particular, I am interested in exploring the ways in which social policies can be used to address health inequities and improve population health. I also look forward to continuing my teaching and mentorship of students at Nazarbayev University.
+
+Thank you for considering my application. I am confident that my background and experience make me well-suited for this position and I am eager to contribute to the department and the university.
+
+Thank you.
+

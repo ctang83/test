@@ -1,6 +1,5 @@
 hku
 speech-outline
-hku-speech
 nugspp--aprof
 my-storyinterview-questions---star-situation-task-actions-results
 job-talk-example
@@ -11,3 +10,4 @@ network
 geography
 health-and-social-policy
 health-system-knowledge
+gspp-speech
